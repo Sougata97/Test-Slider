@@ -1,4 +1,9 @@
 
+.testimonial-section-shortcode
+{
+  background-color: #2C4C29;
+}
+
 .testimonial-section-shortcode .carousel {
   display: flex;
   flex-direction: column;
